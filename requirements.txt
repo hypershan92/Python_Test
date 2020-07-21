@@ -1,0 +1,40 @@
+backcall==0.2.0
+certifi==2020.6.20
+colorama==0.4.3
+cycler==0.10.0
+decorator==4.4.2
+fastcache==1.1.0
+gmpy2==2.0.8
+ipykernel @ file:///C:/ci/ipykernel_1594829155762/work/dist/ipykernel-5.3.2-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1593433781269/work
+ipython-genutils==0.2.0
+jedi @ file:///C:/ci/jedi_1592833832328/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+jupyter-core==4.6.3
+kiwisolver==1.2.0
+matplotlib @ file:///C:/ci/matplotlib-base_1592846084747/work
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+mpmath==1.1.0
+networkx @ file:///tmp/build/80754af9/networkx_1594377231366/work
+numpy==1.18.5
+pandas @ file:///C:/ci/pandas_1592841747005/work
+parso==0.7.0
+pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
+prompt-toolkit==3.0.5
+Pygments==2.6.1
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==227
+pyzmq==19.0.1
+rope==0.17.0
+scipy @ file:///C:/ci/scipy_1592916958183/work
+six==1.15.0
+sympy @ file:///C:/ci/sympy_1594234541241/work
+tornado==6.0.4
+traitlets==4.3.3
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+wincertstore==0.2
+yapf @ file:///tmp/build/80754af9/yapf_1593528177422/work

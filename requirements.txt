@@ -18,7 +18,7 @@ mkl-random==1.1.1
 mkl-service==2.3.0
 mpmath==1.1.0
 networkx @ file:///tmp/build/80754af9/networkx_1594377231366/work
-numpy==1.18.5
+numpy==1.22.0
 pandas @ file:///C:/ci/pandas_1592841747005/work
 parso==0.7.0
 pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
